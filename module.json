@@ -1,7 +1,7 @@
 {
     "name": "inline-chats",
     "title": "Inline Chats",
-    "description": "Converts !text into clickable links to chat the same",
+    "description": "Converts [[!text]] into clickable links to chat the same",
     "author": "Xaukael",
     "version": "1.0.0",
     "minimumCoreVersion": "9",
