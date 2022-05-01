@@ -1,2 +1,2 @@
 # inline-chats
-converts [[! text]] in documents to clickable links that process text in chat.
+converts [[!text]] in documents to clickable links that process text in chat.
