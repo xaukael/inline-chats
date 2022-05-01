@@ -11,7 +11,7 @@
     "dependencies": [
 	{
 		"name": "lib-wrapper",
-		"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/blob/master/module.json",
+		"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/blob/master/module.json"
 	}
 	],
     "url": "https://github.com/xaukael/inline-chats",
