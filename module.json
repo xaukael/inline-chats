@@ -7,13 +7,13 @@
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "esmodules": ["module.js"],
-		"styles": ["style.css"],
+	"styles": ["style.css"],
     "dependencies": [
 		{
 			"name": "lib-wrapper",
 			"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/blob/master/module.json",
-		},
-		],
+		}
+	],
     "url": "https://github.com/xaukael/inline-chats",
     "manifest": "https://github.com/xaukael/inline-chats/raw/main/module.json",
     "download": "https://github.com/xaukael/inline-chats/raw/main/inline-chats.zip"
