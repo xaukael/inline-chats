@@ -3,7 +3,7 @@
     "title": "Inline Chats",
     "description": "Converts [[!text]] into clickable links to chat the same",
     "author": "Xaukael",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "esmodules": ["module.js"],
