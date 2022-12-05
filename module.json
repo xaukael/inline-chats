@@ -1,20 +1,35 @@
 {
-    "name": "inline-chats",
-    "title": "Inline Chats",
-    "description": "Converts [[!text]] into clickable links to chat the same",
-    "author": "Xaukael",
-    "version": "1.2.0",
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-    "esmodules": ["module.js"],
-	"styles": ["style.css"],
-    "dependencies": [
-	  {
-		  "name": "lib-wrapper",
-		  "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/blob/master/module.json"
-	  }
-	  ],
-    "url": "https://github.com/xaukael/inline-chats",
-    "manifest": "https://github.com/xaukael/inline-chats/raw/main/module.json",
-    "download": "https://github.com/xaukael/inline-chats/raw/main/inline-chats.zip"
+  "title": "Inline Chats",
+  "description": "Converts [[!text]] into clickable links to chat the same",
+  "version": "2.0.0",
+  "esmodules": [
+    "module.js"
+  ],
+  "styles": [
+    "style.css"
+  ],
+  "url": "https://github.com/xaukael/inline-chats",
+  "manifest": "https://github.com/xaukael/inline-chats/raw/main/module.json",
+  "download": "https://github.com/xaukael/inline-chats/raw/main/inline-chats.zip",
+  "id": "inline-chats",
+  "authors": [
+    {
+      "name": "Xaukael",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/blob/master/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "9",
+    "verified": "9"
+  }
 }
