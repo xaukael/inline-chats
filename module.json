@@ -1,28 +1,15 @@
 {
   "title": "Inline Chats",
   "description": "Converts [[!text]] into clickable links to chat the same",
-  "version": "2.2.0",
-  "esmodules": [
-    "module.js"
-  ],
-  "styles": [
-    "style.css"
-  ],
+  "version": "2.3.0",
+  "scripts": ["module.js"],
+  "styles": ["style.css"],
   "url": "https://github.com/xaukael/inline-chats",
   "manifest": "https://github.com/xaukael/inline-chats/raw/main/module.json",
   "download": "https://github.com/xaukael/inline-chats/raw/main/inline-chats.zip",
   "id": "inline-chats",
-  "authors": [
-    {
-      "name": "Xaukael",
-      "flags": {}
-    }
-  ],
-  "relationships": {
-    "requires": [   ]
-  },
-  "compatibility": {
-    "minimum": "9",
-    "verified": "10"
-  }
+  "name": "inline-chats",
+  "author": "Xaukael",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10"
 }
