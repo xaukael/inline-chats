@@ -12,6 +12,6 @@
   "authors": [{"name":"Xaukael"}],
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "11"
   }
 }
